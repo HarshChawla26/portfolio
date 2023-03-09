@@ -2,7 +2,7 @@ import React from 'react'
 import './skills.css'
 function Skills() {
   return (
-    <div >Skills</div>
+    <div id='skills'>Skills</div>
   )
 }
 

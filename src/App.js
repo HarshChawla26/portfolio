@@ -9,7 +9,7 @@ import Home from './comps/HomeComp/Home';
 import 'bootstrap/dist/css/bootstrap.min.css'
 function App() {
   return (
-    <m>
+    <span>
       <Navbar />
       <Home />
       <About />
@@ -17,7 +17,7 @@ function App() {
       <Skills />
       <Projects />
       <Contacts />
-    </m>
+    </span>
   );
 }
 
